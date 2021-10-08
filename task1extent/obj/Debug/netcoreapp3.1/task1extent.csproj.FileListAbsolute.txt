@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\task1extent\obj\Debug\netcoreapp3.1\task1extent.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\task1extent\obj\Debug\netcoreapp3.1\task1extent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\task1extent\obj\Debug\netcoreapp3.1\task1extent.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\task1extent\obj\Debug\netcoreapp3.1\task1extent.AssemblyInfo.cs
+C:\Users\user\source\repos\task1extent\obj\Debug\netcoreapp3.1\task1extent.csproj.CoreCompileInputs.cache

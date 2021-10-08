@@ -1,0 +1,72 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BankApplication/1.0.0": {
+        "dependencies": {
+          "DisplayMsgs": "1.0.0",
+          "Services": "1.0.0",
+          "accounts": "1.0.0"
+        },
+        "runtime": {
+          "BankApplication.dll": {}
+        }
+      },
+      "accounts/1.0.0": {
+        "runtime": {
+          "accounts.dll": {}
+        }
+      },
+      "DisplayMsgs/1.0.0": {
+        "runtime": {
+          "DisplayMsgs.dll": {}
+        }
+      },
+      "Readers/1.0.0": {
+        "runtime": {
+          "Readers.dll": {}
+        }
+      },
+      "Services/1.0.0": {
+        "dependencies": {
+          "Readers": "1.0.0",
+          "accounts": "1.0.0"
+        },
+        "runtime": {
+          "Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "accounts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DisplayMsgs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Readers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

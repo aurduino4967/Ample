@@ -7,14 +7,52 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "task1/1.0.0": {
+        "dependencies": {
+          "Services": "1.0.0",
+          "accounts": "1.0.0",
+          "options": "1.0.0"
+        },
         "runtime": {
           "task1.dll": {}
+        }
+      },
+      "accounts/1.0.0": {
+        "runtime": {
+          "accounts.dll": {}
+        }
+      },
+      "options/1.0.0": {
+        "runtime": {
+          "options.dll": {}
+        }
+      },
+      "Services/1.0.0": {
+        "dependencies": {
+          "accounts": "1.0.0"
+        },
+        "runtime": {
+          "Services.dll": {}
         }
       }
     }
   },
   "libraries": {
     "task1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "accounts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "options/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

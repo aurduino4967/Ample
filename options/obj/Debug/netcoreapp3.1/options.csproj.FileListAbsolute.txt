@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\options\bin\Debug\netcoreapp3.1\options.deps.json
+C:\Users\user\source\repos\options\bin\Debug\netcoreapp3.1\options.dll
+C:\Users\user\source\repos\options\bin\Debug\netcoreapp3.1\options.pdb
+C:\Users\user\source\repos\options\obj\Debug\netcoreapp3.1\options.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\options\obj\Debug\netcoreapp3.1\options.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\options\obj\Debug\netcoreapp3.1\options.AssemblyInfo.cs
+C:\Users\user\source\repos\options\obj\Debug\netcoreapp3.1\options.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\options\obj\Debug\netcoreapp3.1\options.dll
+C:\Users\user\source\repos\options\obj\Debug\netcoreapp3.1\options.pdb
+C:\Users\user\source\repos\options\obj\Debug\netcoreapp3.1\options.csproj.AssemblyReference.cache

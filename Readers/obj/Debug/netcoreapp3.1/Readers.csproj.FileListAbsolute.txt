@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Readers\obj\Debug\netcoreapp3.1\Readers.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Readers\obj\Debug\netcoreapp3.1\Readers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Readers\obj\Debug\netcoreapp3.1\Readers.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Readers\obj\Debug\netcoreapp3.1\Readers.AssemblyInfo.cs
+C:\Users\user\source\repos\Readers\obj\Debug\netcoreapp3.1\Readers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Readers\bin\Debug\netcoreapp3.1\Readers.deps.json
+C:\Users\user\source\repos\Readers\bin\Debug\netcoreapp3.1\Readers.dll
+C:\Users\user\source\repos\Readers\bin\Debug\netcoreapp3.1\Readers.pdb
+C:\Users\user\source\repos\Readers\obj\Debug\netcoreapp3.1\Readers.dll
+C:\Users\user\source\repos\Readers\obj\Debug\netcoreapp3.1\Readers.pdb

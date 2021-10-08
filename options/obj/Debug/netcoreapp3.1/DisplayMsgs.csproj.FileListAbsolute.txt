@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\options\bin\Debug\netcoreapp3.1\DisplayMsgs.deps.json
+C:\Users\user\source\repos\options\bin\Debug\netcoreapp3.1\DisplayMsgs.dll
+C:\Users\user\source\repos\options\bin\Debug\netcoreapp3.1\DisplayMsgs.pdb
+C:\Users\user\source\repos\options\obj\Debug\netcoreapp3.1\DisplayMsgs.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\options\obj\Debug\netcoreapp3.1\DisplayMsgs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\options\obj\Debug\netcoreapp3.1\DisplayMsgs.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\options\obj\Debug\netcoreapp3.1\DisplayMsgs.AssemblyInfo.cs
+C:\Users\user\source\repos\options\obj\Debug\netcoreapp3.1\DisplayMsgs.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\options\obj\Debug\netcoreapp3.1\DisplayMsgs.dll
+C:\Users\user\source\repos\options\obj\Debug\netcoreapp3.1\DisplayMsgs.pdb

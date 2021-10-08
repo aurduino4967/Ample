@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dUaUhIOAxA/q6DFzXH935iPqFk7rw38iJF04Lv3A8Kidmhsn+MtQTDIdYFsV+L+EK7HXJJufZDhIONtOoT+9pw==",
+  "dgSpecHash": "RCSULdTX1oKSfZ2CeEAD5+IyHP6vjwIYLmskN/qF18sGAzynvM1AQqY7hASv3tbYarGmF7SofXK7y2+tt/coSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\task1\\task1.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\task1\\BankApplication.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
