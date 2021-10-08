@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Timers;
 
 namespace AtmApplication
 {
@@ -46,8 +45,6 @@ namespace AtmApplication
             int choice, i = -1,num,ppin,acntno;
             double amt;
             account[] acnts = new account[100];
-            JLabel lab = new JLabel("Font Bold at 24");
-            lab.setFont(new Font("Serif", Font.BOLD, 24));
             Console.ForegroundColor= ConsoleColor.Yellow;
             Console.Write("\n\n\n\n\n\n\n\n\n\t\t\t*************************************TECHIE'S BANK*******************************");
             Console.WriteLine("\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\tenter a key to continue...");
