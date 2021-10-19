@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\AtmApplication\AtmApplication.MODEL\bin\Debug\netcoreapp3.1\AtmApplication.MODEL.deps.json
+C:\Users\user\source\repos\AtmApplication\AtmApplication.MODEL\bin\Debug\netcoreapp3.1\AtmApplication.MODEL.dll
+C:\Users\user\source\repos\AtmApplication\AtmApplication.MODEL\bin\Debug\netcoreapp3.1\AtmApplication.MODEL.pdb
+C:\Users\user\source\repos\AtmApplication\AtmApplication.MODEL\obj\Debug\netcoreapp3.1\AtmApplication.MODEL.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AtmApplication\AtmApplication.MODEL\obj\Debug\netcoreapp3.1\AtmApplication.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AtmApplication\AtmApplication.MODEL\obj\Debug\netcoreapp3.1\AtmApplication.MODEL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AtmApplication\AtmApplication.MODEL\obj\Debug\netcoreapp3.1\AtmApplication.MODEL.AssemblyInfo.cs
+C:\Users\user\source\repos\AtmApplication\AtmApplication.MODEL\obj\Debug\netcoreapp3.1\AtmApplication.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AtmApplication\AtmApplication.MODEL\obj\Debug\netcoreapp3.1\AtmApplication.MODEL.dll
+C:\Users\user\source\repos\AtmApplication\AtmApplication.MODEL\obj\Debug\netcoreapp3.1\AtmApplication.MODEL.pdb

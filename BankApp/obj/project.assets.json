@@ -1,0 +1,147 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "accounts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/accounts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/accounts.dll": {}
+        }
+      },
+      "DisplayMsgs/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/DisplayMsgs.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DisplayMsgs.dll": {}
+        }
+      },
+      "Readers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Readers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Readers.dll": {}
+        }
+      },
+      "Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Readers": "1.0.0",
+          "accounts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "accounts/1.0.0": {
+      "type": "project",
+      "path": "../common/accounts.csproj",
+      "msbuildProject": "../common/accounts.csproj"
+    },
+    "DisplayMsgs/1.0.0": {
+      "type": "project",
+      "path": "../options/DisplayMsgs.csproj",
+      "msbuildProject": "../options/DisplayMsgs.csproj"
+    },
+    "Readers/1.0.0": {
+      "type": "project",
+      "path": "../Readers/Readers.csproj",
+      "msbuildProject": "../Readers/Readers.csproj"
+    },
+    "Services/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary1/Services.csproj",
+      "msbuildProject": "../ClassLibrary1/Services.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "DisplayMsgs >= 1.0.0",
+      "Services >= 1.0.0",
+      "accounts >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\BankApp\\BankApplication.csproj",
+      "projectName": "BankApplication",
+      "projectPath": "C:\\Users\\user\\source\\repos\\BankApp\\BankApplication.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\BankApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\user\\source\\repos\\ClassLibrary1\\Services.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\ClassLibrary1\\Services.csproj"
+            },
+            "C:\\Users\\user\\source\\repos\\common\\accounts.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\common\\accounts.csproj"
+            },
+            "C:\\Users\\user\\source\\repos\\options\\DisplayMsgs.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\options\\DisplayMsgs.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

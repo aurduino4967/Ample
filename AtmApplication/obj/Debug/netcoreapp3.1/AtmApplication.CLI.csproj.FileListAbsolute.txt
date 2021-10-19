@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\AtmApplication\obj\Debug\netcoreapp3.1\AtmApplication.CLI.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AtmApplication\obj\Debug\netcoreapp3.1\AtmApplication.CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AtmApplication\obj\Debug\netcoreapp3.1\AtmApplication.CLI.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AtmApplication\obj\Debug\netcoreapp3.1\AtmApplication.CLI.AssemblyInfo.cs
+C:\Users\user\source\repos\AtmApplication\obj\Debug\netcoreapp3.1\AtmApplication.CLI.csproj.CoreCompileInputs.cache
